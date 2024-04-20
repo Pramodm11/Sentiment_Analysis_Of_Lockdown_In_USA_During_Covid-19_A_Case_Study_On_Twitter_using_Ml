@@ -20,3 +20,7 @@ The notebook shows the data types of each column, including object (text), int64
 Twitter Sources:
 The notebook lists various sources from which the tweets were collected, including Twitter for iPhone, Twitter for Android, Twitter Web App, and many others.
 The notebook seems to focus on analyzing COVID-19 related tweets, exploring user information, tweet content, and sources of the tweets. It sets the groundwork for sentiment analysis by loading and examining the dataset, preparing it for further analysis and insights extraction
+
+
+..
+#data sets link: https://www.kaggle.com/datasets/gpreda/covid19-tweets
